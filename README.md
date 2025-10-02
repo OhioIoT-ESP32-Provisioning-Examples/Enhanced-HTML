@@ -1,13 +1,17 @@
-# ESP32 Provisioning: Basic Config <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 Provisioning: Enhanced HTML <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 
 ## Overview
-This code serves is an output from the YouTube video [ESP32 Provisioning - Write Your Own in 100 Lines](https://youtu.be/joSQdGQZj2Q).  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code serves is an output from the YouTube video [ESP32 Provisioning - Enhanced HTML](https://youtu.be/joSQdGQZj2Q).  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
 ```
+<<<<<<< HEAD
 git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config.git
+=======
+git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML.git
+>>>>>>> origin/main
 ```
 
 
@@ -19,7 +23,13 @@ git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config.gi
 - copy the ***lib/provisioner*** folder into your ***libraries/*** folder in your Arduino projects folder
 - Compile and run
 
+<<<<<<< HEAD
 <br>
 
+=======
+
+
+## About
+>>>>>>> origin/main
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
 
