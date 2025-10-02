@@ -1,4 +1,4 @@
-# ESP32 Provisioning: Enhanced HTML <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 Provisioning: Enhanced HTML <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 
 ## Overview
