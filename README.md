@@ -19,7 +19,8 @@ git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML.g
 - copy the ***lib/provisioner*** folder into your ***libraries/*** folder in your Arduino projects folder
 - Compile and run
 
-<br>
 
+
+## About
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
 
