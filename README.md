@@ -1,0 +1,25 @@
+# ESP32 Provisioning: Basic Config <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+
+
+## Overview
+This code serves is an output from the YouTube video [ESP32 Provisioning - Write Your Own in 100 Lines](https://youtu.be/joSQdGQZj2Q).  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+
+
+## Getting Started
+```
+git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config.git
+```
+
+
+### Getting Started - PlatformIO
+- Compile and run
+
+### Getting Started - Arduino IDE 
+- copy ***/src/main.cpp*** into a new sketch ***prov_lab/prov_lab.ino*** in your Arduino projects folder
+- copy the ***lib/provisioner*** folder into your ***libraries/*** folder in your Arduino projects folder
+- Compile and run
+
+<br>
+
+*OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
+
