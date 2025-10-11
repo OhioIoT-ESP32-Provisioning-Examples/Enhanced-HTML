@@ -2,16 +2,12 @@
 
 
 ## Overview
-This code serves is an output from the YouTube video [ESP32 Provisioning - Enhanced HTML](https://youtu.be/joSQdGQZj2Q).  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code serves is an output from the YouTube video [ESP32 Provisioning - Enhanced HTML](https://youtu.be/UBM_KC4RHlo).  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
 ```
-<<<<<<< HEAD
-git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Basic-Config.git
-=======
 git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML.git
->>>>>>> origin/main
 ```
 
 
@@ -19,17 +15,11 @@ git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML.g
 - Compile and run
 
 ### Getting Started - Arduino IDE 
-- copy ***/src/main.cpp*** into a new sketch ***prov_lab/prov_lab.ino*** in your Arduino projects folder
+- copy ***/src/main.cpp*** into a new sketch ***prov_lab/prov_lab.ino*** (or whatever name you choose) in your Arduino projects folder
 - copy the ***lib/provisioner*** folder into your ***libraries/*** folder in your Arduino projects folder
 - Compile and run
 
-<<<<<<< HEAD
-<br>
-
-=======
-
 
 ## About
->>>>>>> origin/main
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
 
