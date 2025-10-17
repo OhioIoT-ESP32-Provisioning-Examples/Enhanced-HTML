@@ -47,6 +47,15 @@ void Provisioner::_start_provisioner() {
     _web_server.on("/favicon.ico", [this]() { _web_server.send(200); });
     _web_server.begin();
 
+    // these four lines below were added after the video was made
+    
+    Serial.print("     attach to network:    ");
+    Serial.println(AP_SSID);
+
+    Serial.print("     navigate browser to:  ");
+    Serial.println(WiFi.softAPIP());
+
+
 }
 
 void Provisioner::_wait_for_completion() {

@@ -23,3 +23,6 @@ git clone https://github.com/OhioIoT-ESP32-Provisioning-Examples/Enhanced-HTML.g
 ## About
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
 
+## Updates
+
+10/17/25 - Adding some logging when the provisioner starts
